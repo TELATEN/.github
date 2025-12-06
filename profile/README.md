@@ -180,7 +180,7 @@ graph TB
 
 ```bash
 # Clone with all submodules
-git clone --recurse-submodules https://github.com/your-username/telaten-apps.git
+git clone --recurse-submodules https://github.com/TELATEN/telaten-apps.git
 cd telaten-apps
 
 # Backend setup
@@ -401,12 +401,12 @@ We welcome contributions from developers, designers, business experts, and Indon
 
 <div align="center">
 
-| **Role**                | **How You Can Help**                | **Get Started**                                          |
-| ----------------------- | ----------------------------------- | -------------------------------------------------------- |
-| **🧑‍💻 Developers**       | Code improvements, new features     | [Development Guide](./telaten-backend/README.md)         |
-| **🎨 Designers**        | UI/UX enhancements, user research   | [Design System](./telaten-client/README.md)              |
-| **💼 Business Experts** | Feature validation, market insights | [Business Requirements](./docs/business-requirements.md) |
-| **🏪 MSME Owners**      | User testing, feedback, use cases   | [Beta Testing Program](./docs/beta-testing.md)           |
+| **Role**                | **How You Can Help**                | **Get Started**                                                                        |
+| ----------------------- | ----------------------------------- | -------------------------------------------------------------------------------------- |
+| **🧑‍💻 Developers**       | Code improvements, new features     | [Development Guide](https://github.com/TELATEN/telaten-backend/blob/main/README.md)    |
+| **🎨 Designers**        | UI/UX enhancements, user research   | [Design System](https://github.com/TELATEN/telaten-client/blob/main/README.md)         |
+| **💼 Business Experts** | Feature validation, market insights | [Project Architecture](https://github.com/TELATEN/telaten-backend/blob/main/README.md) |
+| **🏪 MSME Owners**      | User testing, feedback, use cases   | [Live Demo Testing](https://telaten.vercel.app)                                        |
 
 </div>
 
@@ -437,11 +437,10 @@ We welcome contributions from developers, designers, business experts, and Indon
 ### 🔗 **Useful Links**
 
 - 📖 **[Complete Documentation](./README.md)** - Full project overview
-- 🔧 **[Backend Documentation](./telaten-backend/README.md)** - API and architecture
-- 🎨 **[Frontend Documentation](./telaten-client/README.md)** - UI components and setup
-- 🧪 **[API Testing](./telaten-docs-api/README.md)** - Interactive API collection
-- 🏗️ **[Deployment Guide](./docs/deployment.md)** - Production deployment
-- 🤝 **[Contributing Guide](./CONTRIBUTING.md)** - How to contribute
+- 🔧 **[Backend Documentation](https://github.com/TELATEN/telaten-backend/blob/main/README.md)** - API and architecture
+- 🎨 **[Frontend Documentation](https://github.com/TELATEN/telaten-client/blob/main/README.md)** - UI components and setup
+- 🧪 **[API Testing](https://github.com/TELATEN/telaten-docs-api/blob/main/README.md)** - Interactive API collection
+- 🏗️ **[Backend Architecture](https://github.com/TELATEN/telaten-backend/blob/main/README.md)** - Complete backend documentation
 
 ---
 
@@ -465,9 +464,9 @@ This project is licensed under the **MIT License**, making it free and open-sour
 
   <!-- Project Statistics -->
   <p>
-    <img src="https://img.shields.io/github/stars/your-username/telaten-apps?style=social" alt="GitHub Stars"/>
-    <img src="https://img.shields.io/github/forks/your-username/telaten-apps?style=social" alt="GitHub Forks"/>
-    <img src="https://img.shields.io/github/watchers/your-username/telaten-apps?style=social" alt="GitHub Watchers"/>
+    <img src="https://img.shields.io/github/stars/TELATEN/telaten-apps?style=social" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/forks/TELATEN/telaten-apps?style=social" alt="GitHub Forks"/>
+    <img src="https://img.shields.io/github/watchers/TELATEN/telaten-apps?style=social" alt="GitHub Watchers"/>
   </p>
 
   <!-- Call to Action -->
@@ -481,9 +480,6 @@ This project is licensed under the **MIT License**, making it free and open-sour
     <a href="./CONTRIBUTING.md">
       <img src="https://img.shields.io/badge/🤝-Contribute-2196F3?style=for-the-badge&logoColor=white" alt="Contribute"/>
     </a>
-    <a href="https://discord.gg/telaten">
-      <img src="https://img.shields.io/badge/💬-Join%20Community-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Join Community"/>
-    </a>
   </p>
 
   <br/>
@@ -491,7 +487,7 @@ This project is licensed under the **MIT License**, making it free and open-sour
   <p><em>🙏 Built with love and patience for the Indonesian entrepreneurial spirit</em></p>
   
   <p>
-    <strong>Telaten: Sabar dan tekun dalam membangun bisnis yang berkelanjutan</strong>
+    <strong>Telaten: Maju Pelan - Pelan, Usaha Jadi Mapan</strong>
   </p>
 
 </div>
