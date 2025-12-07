@@ -129,7 +129,6 @@ graph TB
 
     subgraph "💾 Data Persistence"
         DB[(PostgreSQL)]
-        CACHE[(Redis Cache)]
     end
 
     WEB --> BACKEND
@@ -140,7 +139,6 @@ graph TB
     MCP --> WORKFLOWS
     WORKFLOWS --> DB
     BACKEND --> DB
-    BACKEND --> CACHE
 ```
 
 ### 🛠️ **Technology Stack Deep Dive**
